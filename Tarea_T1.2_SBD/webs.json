@@ -1,0 +1,54 @@
+{
+    "paginas": [
+      {
+        "nome": "La Voz de Galicia",
+        "url": "https://www.lavozdegalicia.es",
+        "tag": "h2"
+      },
+      {
+        "nome": "El País",
+        "url": "https://www.elpais.com",
+        "tag": "h2"
+      },
+      {
+        "nome": "El Mundo",
+        "url": "https://www.elmundo.es",
+        "tag": "h2"
+      },
+      {
+        "nome": "20 Minutos",
+        "url": "https://www.20minutos.es",
+        "tag": "h2"
+      },
+      {
+        "nome": "Público",
+        "url": "https://www.publico.es",
+        "tag": "h2"
+      },
+      {
+        "nome": "La Razón",
+        "url": "https://www.larazon.es",
+        "tag": "h2"
+      },
+      {
+        "nome": "ABC",
+        "url": "https://www.abc.es",
+        "tag": "h2"
+      },
+      {
+        "nome": "La Vanguardia",
+        "url": "https://www.lavanguardia.com",
+        "tag": "h2"
+      },
+      {
+        "nome": "El Periódico",
+        "url": "https://www.elperiodico.com",
+        "tag": "h2"
+      },
+      {
+        "nome": "El Mundo Today",
+        "url": "https://www.elmundotoday.com",
+        "tag": "h2"
+      }
+    ]
+  }
