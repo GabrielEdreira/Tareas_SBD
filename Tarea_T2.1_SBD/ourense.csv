@@ -1,4 +1,4 @@
-Código,Nome,Enderezo,Concello,Provincia,Cód. postal,Teléfono,Tipo de centro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
+Código,Nome,Enderezo,Concello,Provincia,CodigoPostal,Teléfono,TipoCentro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
 32000058,CEIP Padre Feijoo,Estrada de Xunqueira s/n,Allariz,Ourense,32660,988440825,CEIP,42.1903228759766,-7.79439067840576,Pública,Non,Si
 32000101,ESMU Municipal de Allariz,Praza Maior 1,Allariz,Ourense,32660,988440859,ESMU,42.1899719238281,-7.80199098587036,Pública,Non,Non
 32000113,ESMU Municipal de Ribadavia,Rúa Redondela s/n,Ribadavia,Ourense,32400,988471900,ESMU,42.2855491638184,-8.1453971862793,Pública,Non,Non

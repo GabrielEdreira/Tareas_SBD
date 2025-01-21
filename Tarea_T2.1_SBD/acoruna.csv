@@ -1,4 +1,4 @@
-Código,Nome,Enderezo,Concello,Provincia,Cód. postal,Teléfono,Tipo de centro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
+Código,Nome,Enderezo,Concello,Provincia,CodigoPostal,Teléfono,TipoCentro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
 15000016,CEIP Plurilingüe San Marcos,Campo da Feira s/n,Abegondo,A Coruña,15318,881880201,CEIP,43.2291831970215,-8.2865800857544,Pública,Non,Si
 15000107,CEIP A Maía,"Rúa Peregrina, s/n (Bertamiráns)",Ames,A Coruña,15220,881866002,CEIP,42.8674850463867,-8.65734195709229,Pública,Non,Si
 15000132,CPR Plurilingüe Alca,Lugar Biduído de Arriba 36,Ames,A Coruña,15895,981531103,CPR,42.8463249206543,-8.60072898864746,Privada,Si,Non

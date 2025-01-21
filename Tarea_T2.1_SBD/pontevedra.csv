@@ -1,4 +1,4 @@
-Código,Nome,Enderezo,Concello,Provincia,Cód. postal,Teléfono,Tipo de centro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
+Código,Nome,Enderezo,Concello,Provincia,CodigoPostal,Teléfono,TipoCentro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
 36000031,CEIP Antonio Carpintero,"Rúa Miguel Davila, s/n (Consistorio)",Arbo,Pontevedra,36430,886110092,CEIP,42.1129989624023,-8.31356048583984,Pública,Non,Si
 36000181,CEIP Amor Ruibal,Perdecanai (Santa María),Barro,Pontevedra,36194,886151996,CEIP,42.5238609313965,-8.63722801208496,Pública,Non,Si
 36000247,CPI de Cova Terreña,Dolores Agrelo s/n,Baiona,Pontevedra,36300,886120001,CPI,42.1167030334473,-8.85274887084961,Pública,Non,Si

@@ -1,4 +1,4 @@
-Código,Nome,Enderezo,Concello,Provincia,Cód. postal,Teléfono,Tipo de centro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
+Código,Nome,Enderezo,Concello,Provincia,CodigoPostal,Teléfono,TipoCentro,COORDENADA_X,COORDENADA_Y,TITULARIDADE,ENSINO_CONCERTADO,DEPENDENTE
 27000010,CEIP Aquilino Iglesia Alvariño,Praza do Concello s/n,Abadín,Lugo,27730,982870044,CEIP,43.363883972168,-7.47536468505859,Pública,Non,Si
 27000198,CEIP Plurilingüe de Antas de Ulla,Rúa Miguel Ángel Blanco s/n,Antas de Ulla,Lugo,27570,982829210,CEIP,42.7846908569336,-7.89009857177734,Pública,Non,Si
 27000319,CEIP Plurilingüe Concepción López Rey,"Rúa Doutor Nogueira, s/n (O Cadavo)",Baleira,Lugo,27130,982870067,CEIP,43.0135459899902,-7.24675464630127,Pública,Non,Si
