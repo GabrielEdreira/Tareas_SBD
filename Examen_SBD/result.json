@@ -1,0 +1,253 @@
+[
+    {
+        "Trabajo": "A Presidencia da Xunta",
+        "Trabajadores": [
+            {
+                "Nombre": "Alfonso Rueda Valenzuela - Presidente da Xunta de Galicia",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Beatriz Cui\u00f1a Barja - Secretaria xeral da Presidencia",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Emilio Jos\u00e9 de la Iglesia Lema - Director xeral do Gabinete da Presidencia",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Pedro Francisco Rojo Otero - Secretario xeral de Medios",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jorge Pan Varea - Director xeral de Comunicaci\u00f3n",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Juan Carlos Reboredo Nogueira - Secretario xeral da Oficina de Coordinaci\u00f3n Econ\u00f3mica da Presidencia",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Manuel Pillado Quint\u00e1ns - Secretario xeral da Asesor\u00eda Xur\u00eddica Xeral",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Mar\u00eda Isabel Concheiro Rodr\u00edguez-Segade - Directora xeral de Asuntos Constitucionais e Desenvolvemento Lexislativo",
+                "Datos": ""
+            }
+        ]
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Presidencia, Xustiza e Deportes",
+        "Trabajadores": [
+            {
+                "Nombre": "Diego Calvo Pouso - Conselleiro",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Francisco Javier Abad Pardo - Secretario xeral t\u00e9cnico",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jos\u00e9 Ram\u00f3n Lete Lasa - Secretario xeral para o Deporte",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jos\u00e9 Tronchoni Albert - Director xeral de Xustiza",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Natalia Prieto Viso - Directora xeral de Administraci\u00f3n Local",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Sandra V\u00e1zquez Dom\u00ednguez - Directora xeral de Relaci\u00f3ns Institucionais e Parlamentarias",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Santiago Villanueva \u00c1lvarez - Director xeral de Emerxencias e Interior",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jes\u00fas Mar\u00eda Gamallo Aller - Director xeral de Relaci\u00f3ns Exteriores e coa Uni\u00f3n Europea",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Judit Fontela Bar\u00f3 - Directora xeral de Mobilidade",
+                "Datos": ""
+            }
+        ]
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Medio Ambiente e Cambio Clim\u00e1tico",
+        "Trabajadores": []
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Educaci\u00f3n, Ciencia, Universidades e Formaci\u00f3n Profesional",
+        "Trabajadores": []
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Pol\u00edtica Social e Igualdade",
+        "Trabajadores": []
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Econom\u00eda e Industria",
+        "Trabajadores": []
+    },
+    {
+        "Trabajo": "C. de Facenda e Administraci\u00f3n P\u00fablica",
+        "Trabajadores": [
+            {
+                "Nombre": "\u00c1ngeles V\u00e1zquez Mejuto - Conselleira",
+                "Datos": ""
+            },
+            {
+                "Nombre": "M\u00aa del Carmen Bouso Montero - Secretaria xeral t\u00e9cnica",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Paula Mar\u00eda Ur\u00eda Traba - Directora xeral de Enerx\u00edas Renovables e Cambio Clim\u00e1tico",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Mar\u00eda Jos\u00e9 Echevarr\u00eda Moreno - Directora xeral de Calidade Ambiental e Sostibilidade",
+                "Datos": ""
+            }
+        ]
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Vivenda e Planificaci\u00f3n de Infraestruturas",
+        "Trabajadores": [
+            {
+                "Nombre": "Rom\u00e1n Rodr\u00edguez Gonz\u00e1lez - Conselleiro",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Manuel Vila L\u00f3pez - Secretario xeral t\u00e9cnico",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jos\u00e9 Alberto D\u00edez de Castro - Secretario xeral de Universidades",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Judith Fern\u00e1ndez Novoa - Directora xeral de Ordenaci\u00f3n e Innovaci\u00f3n Educativa",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Mar\u00eda Eugenia P\u00e9rez Fern\u00e1ndez - Directora xeral de Formaci\u00f3n Profesional",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jes\u00fas Manuel \u00c1lvarez B\u00e9rtolo - Director xeral de Centros e Recursos Humanos",
+                "Datos": ""
+            }
+        ]
+    },
+    {
+        "Trabajo": "C. de Sanidade",
+        "Trabajadores": []
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Cultura, Lingua e Xuventude",
+        "Trabajadores": [
+            {
+                "Nombre": "Fabiola Garc\u00eda Mart\u00ednez - Conselleira",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Mar\u00eda Francisca G\u00f3mez Santos - Secretaria xeral t\u00e9cnica",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jacobo Jos\u00e9 Rey Sastre - Director xeral de Familia, Infancia e Dinamizaci\u00f3n Demogr\u00e1fica",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Arturo Parrado Puente - Director xeral de Inclusi\u00f3n Social",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Bego\u00f1a Abeij\u00f3n Fern\u00e1ndez - Directora xeral de Persoas con Discapacidade",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Antonio Acevedo Prado - Director xeral de Maiores e Atenci\u00f3n Sociosanitaria",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Mar\u00eda Quintiana P\u00e9rez - Directora xeral de Promoci\u00f3n da Igualdade",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Roberto Barba Alvedro - Director xeral de Loita contra a Violencia de X\u00e9nero",
+                "Datos": ""
+            }
+        ]
+    },
+    {
+        "Trabajo": "Conseller\u00eda de Emprego, Comercio e Emigraci\u00f3n",
+        "Trabajadores": [
+            {
+                "Nombre": "Mar\u00eda Jes\u00fas Lorenzana Somoza - Conselleira",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jos\u00e9 Ram\u00f3n Pardo Cabarcos - Secretario xeral t\u00e9cnico",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Nicol\u00e1s V\u00e1zquez Iglesias - Secretario xeral de Industria e Desenvolvemento Enerx\u00e9tico",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Margarita Ardao Rodr\u00edguez - Directora xeral de Estratexia Industrial e Solo Empresarial",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Pablo Fern\u00e1ndez Vila - Director xeral de Planificaci\u00f3n Enerx\u00e9tica e Minas",
+                "Datos": ""
+            }
+        ]
+    },
+    {
+        "Trabajo": "C. do Medio Rural",
+        "Trabajadores": []
+    },
+    {
+        "Trabajo": "C. do Mar",
+        "Trabajadores": [
+            {
+                "Nombre": "Miguel Corgos L\u00f3pez-Prado - Conselleiro",
+                "Datos": ""
+            },
+            {
+                "Nombre": "David Caba\u00f1\u00f3 Fern\u00e1ndez - Secretario xeral T\u00e9cnico e do Tesouro",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Arturo L\u00f3pez Iglesias - Director xeral de Orzamentos e Financiamento Auton\u00f3mico",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Nuria Aguilar V\u00e1zquez - Directora xeral de Emprego P\u00fablico e Administraci\u00f3n de Persoal",
+                "Datos": ""
+            },
+            {
+                "Nombre": "\u00c1ngel Luis Tarr\u00edo Tobar - Director xeral de Cohesi\u00f3n e Fondos Europeos",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Jos\u00e9 Mar\u00eda Barreiro D\u00edaz - Director xeral de Simplificaci\u00f3n Administrativa e do Patrimonio",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Almudena Chac\u00f3n Pichel - Interventora xeral da Comunidade Aut\u00f3noma",
+                "Datos": ""
+            },
+            {
+                "Nombre": "Tom\u00e1s Otero Ferreiro - Presidente do Tribunal Administrativo de Contrataci\u00f3n P\u00fablica de Galicia",
+                "Datos": ""
+            }
+        ]
+    }
+]
